@@ -1,15 +1,14 @@
 {
    "content_scripts": [ {
       "js": [ "texags.js", "embedvideos.js" ],
-      "matches": [ "http://www.texags.com/*", "http://texags.com/*", "http://www.mybcs.com/*", "http://www.mybcs.com/*" ],
+      "matches": [ "http://www.texags.com/*", "http://texags.com/*", "http://mybcs.com/*", "http://www.mybcs.com/*" ],
       "run_at": "document_end"
    } ],
-   "description": "Increased forum functionality",
+   "description": "Increased forum functionality for texags.com",
    "icons": {
       "128": "texagsicon.jpeg",
       "48": "taicon.jpeg"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHfe/6KfMOgMC3e8h0A0B/0GYINVdIQS0SqQI7mY3hhEWgQX/dusLYv7Nv8xpNi23/lA3yUSzA7OKPcXxUGxFIq8c8wZ0ZvfkpLhKnKDLnD94ACkqhhB4f6RW/C9s6nK2HHwQ5O8HakuoX4xHsQ+ih6nbwo5z6fAzeZ+9aWIRP7QIDAQAB",
-   "name": "TexAgs Extension",
+   "name": "TexAgs Enhancements",
    "version": "1.0.0"
 }
