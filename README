@@ -1,0 +1,18 @@
+Created by SecretAg, original thread here:
+http://texags.com/main/forum.reply.asp?topic_id=1612879&page=1&forum_id=30
+
+Description from the original greasemonkey script at:
+http://userscripts.org/scripts/show/11285
+
+- Forum code buttons and default signature setting will now work for private messages
+- Compatibility with myBCS.com 
+- Forward and back buttons one multi-page topics 
+- Page number links next to thread title for multi-page threads 
+- Buttons inserted on post/reply page to quickly insert forum code tags 
+- Removal of ads
+- The highlighting color codes have now changed to global variables in the user defined variable section to make it easier for users to change the default colors 
+- Optimization of the original features of the TexAgs Thread Watcher (user watch list, post highlighting with new replies counter, and removal of the ads (ads now default as shown as of V1.02, but can be turned off by setting the showAds variable to false). 
+- Option to set the signature checkbox to default as checked 
+- Automatic reduction of large images to a user-defined max image size to prevent the need for side scrolling 
+- sip tags and tard tags 
+- threads that are replied to are now tracked similar to posted threads
